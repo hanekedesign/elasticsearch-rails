@@ -18,7 +18,7 @@
 source 'https://rubygems.org'
 
 gem "rake", "~> 12"
-gem "elasticsearch", git: 'https://github.com/hanekedesign/elasticsearch-ruby/tree/8.3'
+gem "elasticsearch", git: 'https://github.com/hanekedesign/elasticsearch-ruby', branch: '8.3'
 gem "pry"
 gem "ansi"
 gem "cane"
